@@ -1,5 +1,4 @@
 import "./Success.css"
-import App from "./App"
 export default function Successs({ Cheks }) {
     return (
         <div className="Card">
